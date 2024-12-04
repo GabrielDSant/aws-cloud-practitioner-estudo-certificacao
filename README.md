@@ -308,6 +308,9 @@ A AWS Snow Family consiste nos serviços __AWS Snowcone__(Capacidade de 8TB), __
 # O que é o Amazon QuickSight?
 É um serviço de business intelligence (BI) em escala de nuvem que você pode usar para fornecer easy-to-understandinsights para as pessoas com quem você trabalha, onde quer que estejam. Tipo um power BI
 
+# O que é o Amazon Connect
+Com o Amazon Connect, você pode configurar uma central de contato em questão de minutos, e ela pode ser dimensionada para oferecer suporte a milhões de clientes.
+
 # Preparação para a prova
 ### Divisão de perguntas
 ![image](https://user-images.githubusercontent.com/53017748/179562013-35c6d771-cb11-4d3d-89c0-f15dba44878b.png)
