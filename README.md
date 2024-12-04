@@ -315,15 +315,16 @@ Com o Amazon Connect, você pode configurar uma central de contato em questão d
 
 Para gerenciar o provisionamento e a desativação automática de instâncias EC2, use o AWS Auto Scaling. Ele ajusta o número de instâncias com base em métricas de desempenho, como uso de CPU, garantindo que você tenha a quantidade ideal de recursos conforme a demanda. Isso otimiza o uso dos recursos e reduz custos.
 
-#Criar snapshots
+### Criar snapshots
 
 # O que é o Amazon Machine Images (AMIs)
-
 Uma Amazon Machine Image (AMI) é uma imagem virtual usada para criar instâncias de máquinas virtuais no Amazon Web Services (AWS). A AMI fornece as informações necessárias para lançar uma instância, que é uma máquina virtual no Amazon Elastic Compute Cloud (EC2). 
 
 # O que é o Amazon Elastic Container Registry (ECR)
-
 O Amazon Elastic Container Registry (ECR) é um serviço da AWS que permite armazenar, gerenciar e implantar imagens de contêineres Docker de maneira segura e altamente escalável na nuvem da AWS, não de instâncias EC2.
+
+# O que é o Amazon WorkSpaces
+Com o Amazon Workspaces é possível provisionar um grande número de máquinas virtuais para uso como desktops.
 
 
 
