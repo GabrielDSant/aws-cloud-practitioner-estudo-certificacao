@@ -335,7 +335,8 @@ O Amazon Textract utiliza aprendizado de máquina (machine learning) para analis
 # O que é o Amazon Transcribe
 O Transcribe utiliza aprendizado de máquina (machine learning) para extrair textos de áudios e vídeos.
 
-
+# O que é o Amazon Elastic MapReduce (EMR)
+Processa grandes volumes de dados utilizando frameworks como Apache Hadoop e Spark em clusters escaláveis e gerenciados, ideal para análise de dados e machine learning.
 
 # Preparação para a prova
 ### Divisão de perguntas
