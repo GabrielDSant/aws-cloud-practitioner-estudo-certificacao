@@ -311,6 +311,10 @@ A AWS Snow Family consiste nos serviços __AWS Snowcone__(Capacidade de 8TB), __
 # O que é o Amazon Connect
 Com o Amazon Connect, você pode configurar uma central de contato em questão de minutos, e ela pode ser dimensionada para oferecer suporte a milhões de clientes.
 
+# O que é o AWS Auto Scaling Group
+
+Para gerenciar o provisionamento e a desativação automática de instâncias EC2, use o AWS Auto Scaling. Ele ajusta o número de instâncias com base em métricas de desempenho, como uso de CPU, garantindo que você tenha a quantidade ideal de recursos conforme a demanda. Isso otimiza o uso dos recursos e reduz custos.
+
 # Preparação para a prova
 ### Divisão de perguntas
 ![image](https://user-images.githubusercontent.com/53017748/179562013-35c6d771-cb11-4d3d-89c0-f15dba44878b.png)
