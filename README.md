@@ -338,6 +338,10 @@ O Transcribe utiliza aprendizado de máquina (machine learning) para extrair tex
 # O que é o Amazon Elastic MapReduce (EMR)
 Processa grandes volumes de dados utilizando frameworks como Apache Hadoop e Spark em clusters escaláveis e gerenciados, ideal para análise de dados e machine learning.
 
+# O que é o AWS IQ;
+O AWS IQ permite que os clientes encontrem, colaborem com segurança e paguem especialistas terceirizados certificados pela AWS para trabalhos sob demanda em um projeto.
+
+
 # Preparação para a prova
 ### Divisão de perguntas
 ![image](https://user-images.githubusercontent.com/53017748/179562013-35c6d771-cb11-4d3d-89c0-f15dba44878b.png)
