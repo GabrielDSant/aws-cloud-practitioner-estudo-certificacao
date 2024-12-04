@@ -326,6 +326,15 @@ O Amazon Elastic Container Registry (ECR) é um serviço da AWS que permite arma
 # O que é o Amazon WorkSpaces
 Com o Amazon Workspaces é possível provisionar um grande número de máquinas virtuais para uso como desktops.
 
+# O que é o Amazon Polly
+O Polly utiliza aprendizado de máquina (machine learning) para converter textos em fala realista.
+
+# O que é o Amazon Textract
+O Amazon Textract utiliza aprendizado de máquina (machine learning) para analisas os documentos, detectar e extrair texto impresso e manuscrito, dados estruturados (como campos e valores de interesse) e tabelas de imagens e digitalizações de documentos permitindo uma validação antecipada e automatizada.
+
+# O que é o Amazon Transcribe
+O Transcribe utiliza aprendizado de máquina (machine learning) para extrair textos de áudios e vídeos.
+
 
 
 # Preparação para a prova
