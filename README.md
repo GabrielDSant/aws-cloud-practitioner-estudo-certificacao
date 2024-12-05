@@ -338,9 +338,11 @@ O Transcribe utiliza aprendizado de máquina (machine learning) para extrair tex
 # O que é o Amazon Elastic MapReduce (EMR)
 Processa grandes volumes de dados utilizando frameworks como Apache Hadoop e Spark em clusters escaláveis e gerenciados, ideal para análise de dados e machine learning.
 
-# O que é o AWS IQ;
+# O que é o AWS IQ
 O AWS IQ permite que os clientes encontrem, colaborem com segurança e paguem especialistas terceirizados certificados pela AWS para trabalhos sob demanda em um projeto.
 
+# O que é o AWS Cloud9
+O AWS Cloud9 é um Ambiente de Desenvolvimento Integrado (IDE) fornecido pela AWS, permitindo que os desenvolvedores escrevam, executem e depurem código utilizando apenas um navegador web.
 
 # Preparação para a prova
 ### Divisão de perguntas
